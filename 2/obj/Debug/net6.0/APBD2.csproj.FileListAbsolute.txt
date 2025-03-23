@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\bin\Debug\net6.0\APBD2.exe
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\bin\Debug\net6.0\APBD2.deps.json
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\bin\Debug\net6.0\APBD2.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\bin\Debug\net6.0\APBD2.dll
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\bin\Debug\net6.0\APBD2.pdb
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.dll
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\refint\APBD2.dll
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.pdb
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\APBD2.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\APBD2\APBD2\obj\Debug\net6.0\ref\APBD2.dll
